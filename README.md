@@ -6,3 +6,4 @@ What is different about this repository from other repositories is that the solu
 
 Here are the branches:
 * step-1-create-a-new-application
+* step-2-change-title-and-style
