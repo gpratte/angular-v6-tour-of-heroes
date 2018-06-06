@@ -1,4 +1,4 @@
-# Angular6TourOfHeroes
+# Angular 6 Tour Of Heroes
 
 This repository has the solutions to Angular Tour of Heroes tutorial for Angular 6. See https://angular.io/tutorial
 
