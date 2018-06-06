@@ -5,3 +5,4 @@ This repository has the solutions to Angular Tour of Heroes tutorial for Angular
 What is different about this repository from other repositories is that the solutions can be found on the branches. The final solution is on master.
 
 Here are the branches:
+* step-1-create-a-new-application
