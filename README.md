@@ -10,3 +10,4 @@ Here are the branches:
 * step-3-heroes-component
 * step-4-hero-class
 * step-5-uppercase-pipe
+* step-6-edit-the-hero
