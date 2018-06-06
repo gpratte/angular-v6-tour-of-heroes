@@ -13,3 +13,4 @@ Here are the branches:
 * step-6-edit-the-hero
 * step-7-list-of-heroes
 * step-8-master-detail
+* step-9-hero-detail-component
