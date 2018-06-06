@@ -14,3 +14,4 @@ Here are the branches:
 * step-7-list-of-heroes
 * step-8-master-detail
 * step-9-hero-detail-component
+* step-10-hero-service
