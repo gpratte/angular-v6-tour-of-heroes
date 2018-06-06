@@ -9,3 +9,4 @@ Here are the branches:
 * step-2-change-title-and-style
 * step-3-heroes-component
 * step-4-hero-class
+* step-5-uppercase-pipe
