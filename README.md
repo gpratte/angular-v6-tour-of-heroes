@@ -20,3 +20,4 @@ Here are the branches:
 * step-13-app-routing-heroes-url
 * step-14-app-routing-heroes-link
 * step-15-dashboard-component-and-route
+* step-16-routable-hero-detail
