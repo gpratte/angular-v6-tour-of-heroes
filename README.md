@@ -21,3 +21,4 @@ Here are the branches:
 * step-14-app-routing-heroes-link
 * step-15-dashboard-component-and-route
 * step-16-routable-hero-detail
+* step-17-detail-go-back
