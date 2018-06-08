@@ -2,7 +2,7 @@
 
 This repository has the solutions to Angular Tour of Heroes tutorial for Angular 6. See https://angular.io/tutorial
 
-What is different about this repository from other repositories is that the solutions can be found on the branches. The final solution is on master.
+This repo differs from other angular tutorial repos because the solutions can be found on branches. The final solution is on master.
 
 Here are the branches:
 * step-1-create-a-new-application
