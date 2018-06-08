@@ -27,3 +27,4 @@ Here are the branches:
 * step-20-http-get-one
 * step-21-hero-update
 * step-22-hero-add
+* step-23-hero-delete
